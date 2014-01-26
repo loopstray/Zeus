@@ -13,7 +13,7 @@ Zeus is a basic template and best used as a launching platform, and as such it c
 1. Browse open issues, comment on proposals, or report typos or alignment issues.
 2. Fork the Zeus repo, make some changes and share what you create!
 
-Author & Acknoweldgements
+Author & Acknowledgements
 ===
 
 Designed by <a href="http://patrikward.com">Patrik Ward</a> for the <a href="http://knoxdevicelab.org">Knoxville Open Device Lab</a> website. All design was done in vector using Sketch by Bohemian Coding. You can download a free trial at http://www.bohemiancoding.com/sketch/.
